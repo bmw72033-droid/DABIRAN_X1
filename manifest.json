@@ -1,0 +1,28 @@
+{
+  "name": "سامانه جامع دبیران | پژوهشکده",
+  "short_name": "پژوهشکده",
+  "description": "مدیریت مأموریت‌های پژوهشکده، پروژه‌ها، گزارش‌ها و ظرفیت اعضا",
+  "lang": "fa",
+  "dir": "rtl",
+  "id": "./",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#081320",
+  "theme_color": "#0b1423",
+  "orientation": "any",
+  "icons": [
+    {
+      "src": "./icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "./icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
